@@ -1,0 +1,6 @@
+../Src/lis3dh_spi.c:43:6:LIS3DH_init_spi	24	static
+../Src/lis3dh_spi.c:65:6:spiLIS3DH_senddata	24	static
+../Src/lis3dh_spi.c:88:8:LIS3DH_presCheck	24	static
+../Src/lis3dh_spi.c:103:8:spiLIS3DH_init	24	static
+../Src/lis3dh_spi.c:175:8:spiLIS3DH_XYZ	32	static
+../Src/lis3dh_spi.c:209:8:spiLIS3DH_Temp	24	static

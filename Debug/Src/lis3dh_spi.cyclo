@@ -1,0 +1,6 @@
+lis3dh_spi.c:43:6:LIS3DH_init_spi	1
+lis3dh_spi.c:65:6:spiLIS3DH_senddata	1
+lis3dh_spi.c:88:8:LIS3DH_presCheck	2
+lis3dh_spi.c:103:8:spiLIS3DH_init	11
+lis3dh_spi.c:175:8:spiLIS3DH_XYZ	2
+lis3dh_spi.c:209:8:spiLIS3DH_Temp	1
